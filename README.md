@@ -33,4 +33,4 @@ Part 2: Data Visualization using Matplotlib & Plotly
 8. Create a histogram showing the distribution of order amounts.
 9. Generate a grouped bar chart showing total revenue for the top 5 highest-selling products.
 10. Create an interactive dashboard in Plotly showing key insights like revenue, quantity sold, and
-customer rating per category.
+customer rating per category. --demo  
